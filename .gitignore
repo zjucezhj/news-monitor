@@ -1,0 +1,8 @@
+venv
+.venv
+.vscode
+.claude
+output/
+__pycache__
+.env
+README.md
